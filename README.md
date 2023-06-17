@@ -1,4 +1,4 @@
-- 👋 Hi, I’m friesenkatharina
+- 👋 Hi, I’m katharina
 
 - 🌱 I’m currently learning web-development at DCI
 
