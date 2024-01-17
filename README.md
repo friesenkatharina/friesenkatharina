@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @friesenkatharina
-- study WebDevelopment only @ DCI Germany 
+- currently Student 
 
 
 What I Bring to the Table:
