@@ -1,11 +1,14 @@
 - 👋 Hi, I’m @friesenkatharina
-- 👀 I’m interested in webdevelopment
+- 👀 I’m junior webdeveloper
+- 🚀 Passionate about diving deep into code and unraveling the mysteries of bugs
 
 <!---
 friesenkatharina/friesenkatharina  ✨ ✨
 --->
 
 ---
+
+                    🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟 🌟
 
 ---
 
