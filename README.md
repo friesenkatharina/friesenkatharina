@@ -9,6 +9,4 @@ friesenkatharina/friesenkatharina  ✨ ✨
 
 ---
 
-![Github Gist stars](https://img.shields.io/github/gist/stars/:gistId)
-
-![GitHub Org's stars](https://img.shields.io/github/stars/:org)
+![GitHub Issues or Pull Requests by label](https://img.shields.io/github/:variant/:user/:repo/:label) ![GitHub Issues or Pull Requests](https://img.shields.io/github/:variant/:user/:repo)
