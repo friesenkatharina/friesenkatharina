@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @friesenkatharina
+- 👋 Hi,
 - 👀 I’m junior webdeveloper
 - 🚀 Passionate about diving deep into code and unraveling the mysteries of bugs
 
@@ -12,8 +12,6 @@ friesenkatharina/friesenkatharina  ✨ ✨
 
 ---
 
-![GitHub Issues or Pull Requests by label](https://img.shields.io/github/:variant/:user/:repo/:label) ![GitHub Issues or Pull Requests](https://img.shields.io/github/:variant/:user/:repo)
+![friesenkatharina's Stats](https://github-readme-stats.vercel.app/api?username=friesenkatharina&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 
-![friesenkatharina's Stats](https://github-readme-stats.vercel.app/api?username=friesenkatharina&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
-
-![friesenkatharina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=friesenkatharina&theme=vue-dark&hide_border=false)
+![friesenkatharina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=friesenkatharina&theme=tokyonight&hide_border=true)
