@@ -12,7 +12,9 @@ friesenkatharina/friesenkatharina
 
 <!-- ![friesenkatharina's Stats](https://github-readme-stats.vercel.app/api?username=friesenkatharina&theme=tokyonight&show_icons=true&hide_border=true&count_private=false) -->
 
-![friesenkatharina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=friesenkatharina&theme=tokyonight&hide_border=true)
+<!-- ![friesenkatharina's Streak](https://github-readme-streak-stats.herokuapp.com/?user=friesenkatharina&theme=tokyonight&hide_border=true) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## knowledge
 
@@ -31,15 +33,11 @@ friesenkatharina/friesenkatharina
 
 <img width="22" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/>
 
-<img width="25" src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" alt="Wordpress" title="Wordpress"/>
-
 <img width="25" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" title="Canva"/>
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/>
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-
-<img width="25" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/>
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 
