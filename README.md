@@ -1,6 +1,5 @@
 <p align="center" >
-👋 Hi there,
-I’m a Junior Web Developer with a deep passion for diving into code and unraveling the mysteries behind bugs. My journey into coding started one year ago, and since then, I’ve been committed to mastering the art of web development. 
+My journey into coding started one year ago, and since then, I’ve been committed to mastering the art of web development. 
 </p>
 <!---
 friesenkatharina/friesenkatharina
