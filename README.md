@@ -1,5 +1,5 @@
 <p align="center" >
-My journey into coding started one year ago, and since then, I’ve been committed to mastering the art of web development. 
+im Junior Webdeveloper
 </p>
 <!---
 friesenkatharina/friesenkatharina
