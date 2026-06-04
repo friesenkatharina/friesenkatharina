@@ -1,5 +1,5 @@
 <p align="center" >
-im Junior Webdeveloper
+Webdeveloper
 </p>
 <!---
 friesenkatharina/friesenkatharina
